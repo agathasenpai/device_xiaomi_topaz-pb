@@ -252,3 +252,7 @@ endif
 
 # VNDK
 BOARD_VNDK_VERSION := current
+
+# Wifi
+CONFIG_ACS := true
+
